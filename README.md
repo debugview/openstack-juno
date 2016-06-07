@@ -1,7 +1,7 @@
 # openstack-juno
 Auto Config Shell Script for OpenStack Juno on Ubuntu 14.04.04 LTS
 
-Refer to http://docs.openstack.org/juno/install-guide/
+Refer to http://docs.openstack.org/juno/install-guide/install/apt/content/
 
 # Usage
 Initial the system, config the network, and then execute the script under root:
